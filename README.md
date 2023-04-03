@@ -1,2 +1,2 @@
 # CeRep003
-mod n
+mod p
